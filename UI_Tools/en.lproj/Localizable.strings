@@ -1,0 +1,440 @@
+/* 
+  Localizable.strings
+  BGL-MediaApp
+
+  Created by Bruce Feng on 12/6/18.
+  Copyright © 2018 Xuyang Zheng. All rights reserved.
+*/
+
+//navigationBar
+back_button = "Back";
+
+
+//TabBar
+wallet_tab = "Asset";
+market_tab = "Market";
+flash_tab = "News Flash";
+event_tab = "Events";
+news_tab = "News";
+more_tab = "More";
+updateAlert_tab = "Update";
+cancelAlert_tab = "Cancel";
+updateTitle_tab = "New Update!";
+updateDescription_tab = "Please go to Appstore update to the new version";
+
+//Assets Page Hint page
+mainHint = "Your portfolio starts here!";
+hintLabel = "Add your first historical transaction via the + button, to track your crypto portfolio";
+
+//Assets Page
+mainBalance = "Main Portfolio Balance";
+totalNumber = "Number";
+totalPercent = "Percent";
+hintRealizedTitle = "Realised";
+hintRealizedDescription = "This is the realised gain/loss for the completed purchase & sell transaction with certain purchase & sell price.";
+hintUnrealizedTitle = "Unrealised";
+hintUnrealizedDescription = "This is the unrealised gain/loss for the purchased price of the assets comparing with the current market price.";
+
+//Transaction Page
+buy = "Buy";
+sell = "Sell";
+addTransaction = "Add Transaction";
+updateTransaction = "Update Transaction";
+loading = "Loading...";
+picker_done = "Done";
+picker_cancel = "Cancel";
+
+//Transaciton Page Table View
+navigationbar_transa = "Add Transaction";
+coinForm = "Coin";
+exchangeForm = "Exchange";
+tradingPairForm = "Trading Pair";
+buyPriceForm = "Buy Price(per coin)";
+sellPriceForm = "Sell Price(per coin)";
+amountBoughtForm = "Amount Bought";
+amountSoldForm = "Amount Sold";
+buyDateForm = "Date";
+sellDateForm = "Date";
+buyTimeForm = "Time";
+sellTimeForm = "Time";
+trasactionFeeForm = "Transaction Fee";
+transactionFeeButtonForm = "Currency ▼";
+additionalForm = "Notes";
+pricePlaceholder = "Enter the price here...";
+amountPlaceholder = "Enter amount here...";
+additional_Placeholder = "Notes...";
+error_transaction = "Invalid Format";
+
+//Market Page
+globalMarket = "Markets";
+watchlistMarket = "Watchlist";
+alertMarket = "Alert";
+marketCap_Market = "Market Cap";
+market_24hVolume = "24h Volume";
+btcDominance_market = "BTC Dominance";
+sortByHighestCap_market = "Highest Cap";
+sortByLowestCap_market = "Lowest Cap";
+sortByBiggestGainers_market = "Biggest Gainers";
+sortByBiggestLosers_market = "Biggest Losers";
+sortByLetter_market = "Alphabetical";
+filterByWeek_market = "1W";
+filterByDay_market = "1D";
+filterByHour_market = "1H";
+globalAverage_market = "Global Average";
+
+
+
+
+
+//WatchList Page
+listView_watchlist = "24 Hour";
+sortByLetter_watchlist = "Alphabetical";
+sortByHighestPrice_watchlist = "Highest Price";
+filterByWeek_watchlist = "1W";
+filterByDay_watchlist = "1D";
+filterByHour_watchlist = "1H";
+hintLabel_watchlist = "Please Add your first coin to watchlist by click the ★ button to ★ in Markets Page";
+
+//Flash News Page
+navigationTitle_flash = "News Flash";
+timeToday_flash = "Today ";
+timeYear_flash = "-";
+timeMonth_flash = "-";
+timeDay_flash = "";
+share_flash = "Share";
+cancel_flash = "Cancel";
+
+//Flash News Search Results
+searchLabel_flash = "Search Result:";
+searchResult_flash = "records";
+searchNull_flash = "No records";
+
+//News Page
+news_newsPage = "News";
+origin_newsPage = "Origin";
+native_newsPage = "Native";
+international_newsPage = "intl.";
+deep_newsPage = "Deep";
+trend_newsPage = "Trend";
+originArticle_newsPage = "Origin";
+video_newsPage = "Video";
+encyclopedia_newsPage = "Enc";
+analyse_newsPage = "Analyse";
+
+//News Search Page
+news_searchNews = "News";
+origin_searchNews = "Origin";
+video_searchNews = "Video";
+searchLabel_news = "Search Result:";
+searchResult_news = "records";
+searchNull_news = "No records";
+
+//Detail Page
+allTimeProfit_detail_detail = "All Time Profit";
+portfolio_detail = "Portfolio";
+marketValue_detail = "Market Value";
+netCost_detail = "Net Cost";
+general_detail = "General";
+transaction_detail = "Transactions";
+alerts_detail = "Alerts";
+marketCap_detail = "Market Cap";
+volume_detail = "Volume(24h)";
+circulatingSupply_detail = "Circulating Supply";
+titleGraphs_details = "Graphs";
+titleGlobal_details = "Global Market";
+chart30m_details = "30min";
+chart4h_details = "4h";
+chart1d_details = "Day";
+chart1w_details = "Week";
+
+
+//Transaction History Page
+tradingMarket_history = "Market";
+buyPirce = "Buy Price";
+buyTradingPair = "Trading Pair";
+boughtAmount = "Amount";
+buyCost = "Cost";
+buyWorth = "Worth";
+buyDelta = "Delta";
+
+sellPirce = "Sell Price";
+sellTradingPair = "Trading Pair";
+soldAmount = "Amount";
+sellProceeds = "Proceeds";
+
+alertTitle_history = "Transaction History";
+alertHint_history = "Do you want to delete this transaction record";
+alertCancel_history = "Cancel";
+alertDelete_history = "Delete";
+
+//Event
+day = "Day";
+week = "Week";
+month = "Month";
+year = "Year";
+otherHosts = "Other Hosts";
+allHostStr = "All Hosts";
+
+popAlertTitle = "Add This Event To Your Calendar?";
+alertNo = "No";
+alertYes = "Yes";
+alertSuccess = "Success!";
+alertSuccessMsg = "This Event has been added to your Calendar!";
+alertFail = "Fail!";
+alertFailMsg = "Sorry, it was fail to add this Event to your Calendar!";
+alertFailMsg2 = "Sorry, it was fail to get the details of Event!";
+alertFailMsg3 = "Sorry, it was fail to load the Event Web!";
+eventAddress = "Address: ";
+
+//Setting Page
+settingTitle = "More Options";
+help = "Helping & Feedback";
+aboutUs_section = "About";
+more_disclaimer = "Disclaimer";
+about_app = "About CurrencyHelper";
+font = "Font";
+feedback_section = "Feedback";
+feedback_rateus = "Rate Us";
+about_function = "About Functions";
+feedBack_reportbug = "Report Bug";
+help_section = "Help";
+help_FAQ = "FAQs";
+help_privacy = "Privacy Statement";
+setting_section = "Setting";
+account_section = "Account";
+register_cell = "Create Account";
+login_cell = "Log In";
+logout_cell = "Log Out";
+aboutUs_cell = "About BlockChain Global";
+community_cell = "Our Community";
+defaultCurrency_cell = "Default Currency";
+notification_cell = "Notification Option";
+display_cell = "Display Option";
+other_cell = "Other Option";
+language_cell = "Language";
+alert_cell = "Alert";
+alert_clearCache = "Clear Cache";
+title_clearCache = "Clear Cache";
+confirm_clearCache = "Do you confirm to delete all the news and newsflash cache?";
+delete_clearCache = "Delete";
+cancel_clearCache = "Cancel";
+logout_hud = "Log out";
+update = "Update to";
+cryptoGeekInfo = "CurrencyHelper is the one stop app for all your cryptocurrency investment needs. The app currently provides the best designed free Bitcoin & cryptocurrency portfolio tracker as well as keeping you up to date with the latest news around the industry. Track all your cryptocoins such as Bitcoin, Ethereum, Litecoin and over 1800 altcoins and be on top of the latest news information from range of most popular crypto news media. Use the free app to get the latest coin prices and market charts in your local currency and get alerts to make sure you don’t miss out on your next crypto investment!";
+
+
+
+//About Us Page
+title_about = "About Blockchain Global";
+introduction_about = "Blockchain Global Introduction";
+description_about = "Blockchain Global is a leading multi-national enterprise in blockchain technology commercialisation and investment. It plays a vital role in international blockchain audit and network infrastructure services. Blockchain Global operates ACX.io, the biggest blockchain asset exchange platform in Australia. Last year,  Blockchain Global has invested money and technology to acquire a 40% interest in DigitalX (ASX: DCC), the world's first listed company in blockchain industry. From the beginning of this year,  Blockchain Global has invested in several listed companies which includes First Growth Funds (FGF:ASX).\n\nBacked by core competencies of understanding blockchain technology, Blockchain Global developed into 5 key business directories: M&A, investment and incubating blockchain start-ups and projects, researching and developing innovative blockchain services and solutions, industrialising blockchain technology application, management consulting and corporate advisory and lastly,  industry consulting, marketing and media.\n\nAs the largest enterprise in blockchain industry in Australia, Blockchain Global is committed to the promotion and education of blockchain technology and its commercialised value by joining hands with local governments, industries, and the society. It will continue to be the building block, revolutionary practitioner, and the key opinion leader in blockchain and digital currency territory.\n\n";
+
+//Community Page
+bgl_community = "BGL Community";
+weibo_community = "Weibo";
+wechat_community = "Wechat";
+twitter_community = "Twitter";
+facebook_community = "Facebook";
+youtube_community = "Youtube";
+community_setting = "Community";
+
+//Default Currency Page
+usd_default = "U.S dollar (USD)";
+aud_default = "Australian dollar (AUD)";
+rmb_default = "RenMinBi Yuan (CNY)";
+eur_default = "European Dollar (EUR)";
+jpy_default = "Japanese Yen (JPY)";
+currency_setting = "Currency Setting";
+
+//Language Page
+language_setting = "Language Setting";
+chinese_language = "简体中文";
+english_language = "English";
+alertTitle_language = "Change Language";
+alertHint_language = "Do you want to change application language";
+alertCancel_language = "Cancel";
+alertChange_language = "Change";
+
+//Alert Page
+flashNews_alert = "News Flash Notification";
+price_alert = "Currency Alert";
+edit_alert = "Manage Alerts";
+addAlert_alert = "Add alert";
+pushSection_alert = "Push Notification";
+editSection_alert = "Edit Alerts";
+notallow_alert = "Unavailable to use alert function without notification allow in Setting. Go to Setting";
+notlogin_alert = "Please login to enable Currency Alert. Login";
+alertStatus_alert = "Notification Setting";
+alertUnavaliable_alert = "Unavaliable";
+alertAvaliable_alert = "Avaliable";
+alertCoinUnavaliable_alert = "Unavailable!";
+
+//Font Page
+flashNews_font = "News Flash Font";
+font_size = "Font Size";
+
+
+//Alert Edit Page
+exampleLabel_alert = "Market Price";
+alertDone_alert = "Done";
+edit_alert = "Edit";
+coinName_alert = "Coin: ";
+exchange_alert = "Exchange: ";
+tradingPair_alert = "TradingPairs: ";
+
+//Pull to refresh
+pullDownToRefresh = "Pull to refresh";
+
+releaseToRefresh = "Release to refresh";
+
+refreshSuccess = "Update successful";
+
+refreshFailure = "Update failed";
+
+refreshing = "Refreshing...";
+
+pullUpToRefresh = "Scroll to load";
+
+noMoreData = "No more data";
+
+tapToRefresh = "Tap to refresh";
+
+scrollAndTapToRefresh = "Scroll or tap to load";
+
+//Login
+registerVerify_alertOK = "OK";
+registerVerify_alertTitle = "Verify your email";
+registerVerify_alertContent = "Please go to your email to activate your account";
+
+//SearchCoin
+search_placeholder = "Enter Search Key Word...";
+//Login
+email = "Email";
+password = "Password";
+login = "LOGIN";
+signUp = "SIGN UP";
+skip = "SKIP >";
+needPassword = "*Password";
+wrongPassword = "Invalid Password";
+wrongEmail = "Invalid Email";
+signingIn = "Signing in";
+successSigningIn = "Success";
+errorLoginIn = "Login Error";
+errorShow = "Error";
+noNetwork = "No Network";
+timeout = "Time Out";
+errorHandle_login = "Email or password error";
+resetPassword_login = "Forget Password?";
+error_verifyEmail = "Please Verify Email";
+error_usernotfound = "No User Found";
+error_error = "Error";
+success_success = "Success";
+realmDes_login = "Do you want to Reload or Sync previous assets before login?";
+realmTitle_login = "Reload or Sync";
+realm_delete_login = "Reload";
+realm_sync_login = "Sync";
+
+//Sign Up
+firstName = "First Name";
+firstNameNeeded = "First Name Needed";
+title = "Title";
+lastName = "Last Name";
+lastNameNeeded = "Last Name Needed";
+passwordTooShort = "Password is too short";
+conPassword = "Confirm Password";
+conPasswordPlaceHolder = "Confirm Your Password";
+wrongConPassword = "Invalid Confirmation";
+passwordHint = "8-20 charactors";
+registing = "Registing";
+successRegiste = "Success";
+verifyEmail = "Please Verify Your Email";
+registerfailed = "Register failed";
+emailExist = "Email Exists";
+
+needLoginLabel = "Please Login First";
+needLoginText = "Login to access alert function";
+
+back = "back";
+back2 = "Back";
+
+onboardingPage1 = "You can add record of your cryptocurrency to keep track of them";
+onboardingPage2 = "Save your favorite market into watchlist and come back later";
+
+onboardingPage3 = "You can read all kinds of news. Share them with your business partners";
+
+onboardingPage4 = "Turn on the alert functions in settings. You will get notifications of the latest information";
+
+mr = "Mr";
+ms = "Ms";
+mrs = "Mrs";
+dr = "Dr";
+
+//reset Password alert
+placeholder_reset = "Enter your email...";
+title_reset = "Reset Password";
+description_reset = "Enter the email for resetting password, link will expire after 15 min";
+sendButton_reset = "Send Email";
+checkSend_reset = "Send Again After";
+second_reset = "s";
+done_reset = "Cancel";
+
+
+//resend Password alert
+title_resend = "Resend Verify Email";
+description_resend = "You can click send button for resend verify email";
+sendButton_resend = "Send Verify Email";
+checkSend_resend = "Send Again After";
+second_resend = "s";
+done_resend = "Done";
+
+//SearchBar
+searchBar_cancel = "Cancel";
+and = "and";
+read = "I have read and understood";
+
+//reset Password from other device
+resetDevice_title = "LogOut";
+resetDevice_description = "You have already reset the password, you need to login again";
+resetDevice_confirm = "Confirm";
+
+submit = "Submit";
+report_feedback = "Report Feedback";
+feedback_error_title = "Report Feedback at:\nmelodyseanrpe@gmail.com";
+feedback_error_message = "Want to give us some feedback?\n Contact us at Email: melodyseanrpe@gmail.com";
+feedback_error_button1 = "Copy Email Address";
+feedback_error_button2 = "OK";
+
+q1 = "What is CurrencyHelper？";
+q2 = "What are CurrencyHelper features?";
+q3 = "How to verify email address?";
+q4 = "How to reset password?";
+q5 = "How to use Alert function?";
+q6 = "Where can I check My watchlist? ";
+q7 = "Why data is not updated?";
+q8 = "Does it support multi-devices?";
+q9 = "How to clear cache";
+
+a1 = "CurrencyHelper is an application powered by Blockchain Global. It provides up to date cryptocurrencies market data, News Flash, Daily News and customised cryptocurrencies asset tracking services. ";
+a2 = "CurrencyHelper features include:\n\nCustomised cryptocurrencies asset tracking services\n\nCryptocurrencies market data\n\nNews Flash\n\nDaily News ";
+a3 = "Your email address need to be verified to use further function. After signing up for your account, an email will be sent to the email address you have signed up in a minute.When viewing the email, please click the button or the address under the email. The email address will be verified automatically after clicking either of them.If you have missed or lost your verification email, you could will be shown a pop up window when you login to ask you to resend the verification email. ";
+a4 = "You might need to reset your password if you forgot it. By clicking the link \"Forgot Password?\", a popup window will be shown to you to let you enter your email to reset. After clicking the send email, you will recieve an email. When viewing the email, please click the button or the address under the email. Your web page will jump to the reset password page. After enter your new password ,the confirmation of your new password and click the reset button, your password will be reset and all your device that has been login with that account need to be re-login";
+a5 = "You can add and check alert in your added transaction or in market(including a specific ) or in alert line of more tab.\n\nTo add a alert, you could click on \"Add\" button in either of these place. By finishing editing coin name, exchange, trading and price to focused, an alert will be added by clicking done. \n\nTo edit or delete these alert, you could tap into the alert and find the delete button in the specific alert.\n\nIf you are adding a price that is higher than current price, the app will notify you when the price reach above your watching price. If you are adding a price that is lower than current price, the app will notify you when the price reach below your watching price";
+a6 = "Watchlist can be checked in watchlist tab of market. The price and the percentage of changing is stand for a 24-hour change";
+a7 = "The data are all updated regularly and automatically. There are occasional system faults, but if you are seeing old data its most likely that you are having a problem with caching. Either your page is holding an old version of the product you want and not fetching a new one from our application. Make sure you slide down to \"Refresh\". Or your Internet Service Provider (ISP) is caching (keeping a copy of the web pages) on their server(s). You may have to contact your ISP.";
+a8 = "CurrencyHelper does support multi-device. You could check news flash, daily news, your customised alert notification in all devices you have logged in. You could not check your crytocurrency in multi-devices because it is currently offline. After you successfully reset your password, other devices will log out automatically.";
+a9 = "Clear cache could be found in more tab. Cache is where news and news flash saved when first loaded. This is for better application performance. When clearing cache, all news flash and news will be cleaned.";
+
+
+//hub progress
+hud_success = "Success";
+hud_Error = "Error";
+hud_passwordReset = "Password Reset";
+hud_noNetwork = "No Network";
+hud_timeOut = "Time Out";
+
+//Event Page
+navigationTitle_event = "Events";
+
+
+
+
